@@ -2,7 +2,7 @@
 
 # 🗃️ Решения задач SQL-EX.RU
 
-[![Progress](https://img.shields.io/badge/Progress-27%2F200+-green)]()
+[![Progress](https://img.shields.io/badge/Progress-20%2F192-green)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📌 О проекте
