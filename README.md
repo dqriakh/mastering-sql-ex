@@ -1,8 +1,8 @@
 # 🐈 mastering-sql-ex
 
-# 😺 Решения задач SQL-EX.RU
+## Решения задач SQL-EX.RU
 
-[![Progress](https://img.shields.io/badge/Progress-20%2F50-green)]()
+[![Progress](https://img.shields.io/badge/Progress-50%2F50-green)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📌 О проекте
